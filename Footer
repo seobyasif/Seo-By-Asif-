@@ -1,0 +1,21 @@
+<div class="social-media-links">
+  <!-- ফেসবুক -->
+  <a href="https://facebook.com/your-username" target="_blank">
+    <i class="fab fa-facebook"></i>
+  </a>
+
+  <!-- টুইটার -->
+  <a href="https://twitter.com/your-username" target="_blank">
+    <i class="fab fa-twitter"></i>
+  </a>
+
+  <!-- ইন্সটাগ্রাম -->
+  <a href="https://instagram.com/your-username" target="_blank">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+  <!-- লিংকডইন -->
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
